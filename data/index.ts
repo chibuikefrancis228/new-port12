@@ -104,7 +104,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Movie App",
+    title: "Movie ApP",
     des: "is a dynamic web experience that incorporates engaging animations to enhance user interaction and storytelling. The project showcases the seamless integration of motion design into the user interface, creating a visually captivating environment that keeps visitors engaged. By combining creative animation with intuitive navigation, this website pushes the boundaries of traditional web design, offering a unique, immersive experience that captures attention and conveys content in an exciting, interactive way...",
     img: "/scrnli_1_3_2024_2-34-36 PM copy.png",
     iconLists: ["/icons8_react_32.png",  "/images.png"],
