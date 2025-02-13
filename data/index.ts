@@ -80,7 +80,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
+    title: "crime reporting system",
     des: "A secure and intuitive web-based platform designed to enable users to report crimes quickly and efficiently. The system features easy-to-navigate forms, real-time tracking of reports, and integration with local authorities to ensure timely responses. Focused on safety, privacy, and user accessibility.",
     img: "/001.PNG",
     iconLists: ["/icons8_mongodb_32.png",  "/icons8_nodejs_32.png ", "icons8_react_32.png" ],
@@ -88,7 +88,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
+    title: "3D portfolio",
     des: "A visually striking, interactive 3D portfolio that showcases creative work in an immersive, dynamic environment. Using cutting-edge 3D technology, this project enables users to explore artwork and designs in a more engaging and lifelike way, offering a unique and memorable experience.",
     img: "/sibl61rkK9.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
@@ -96,10 +96,18 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
+    title: "Animated  Website",
     des: "is a dynamic web experience that incorporates engaging animations to enhance user interaction and storytelling. The project showcases the seamless integration of motion design into the user interface, creating a visually captivating environment that keeps visitors engaged. By combining creative animation with intuitive navigation, this website pushes the boundaries of traditional web design, offering a unique, immersive experience that captures attention and conveys content in an exciting, interactive way...",
     img: "/LBgfke0rLf.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "/ui.apple.com",
+  },
+  {
+    id: 5,
+    title: "Movie App",
+    des: "is a dynamic web experience that incorporates engaging animations to enhance user interaction and storytelling. The project showcases the seamless integration of motion design into the user interface, creating a visually captivating environment that keeps visitors engaged. By combining creative animation with intuitive navigation, this website pushes the boundaries of traditional web design, offering a unique, immersive experience that captures attention and conveys content in an exciting, interactive way...",
+    img: "/scrnli_1_3_2024_2-34-36 PM copy.png",
+    iconLists: ["/icons8_react_32.png",  "/images.png"],
     link: "/ui.apple.com",
   },
   
