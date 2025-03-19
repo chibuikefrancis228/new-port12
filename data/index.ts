@@ -95,6 +95,14 @@ export const projects = [
     link: "/ui.aiimg.com",
   },
   {
+    id: 6,
+    title: "3D portfolio",
+    des: "A visually striking, interactive 3D portfolio that showcases creative work in an immersive, dynamic environment. Using cutting-edge 3D technology, this project enables users to explore artwork and designs in a more engaging and lifelike way, offering a unique and memorable experience.",
+    img: "/sibl61rkK9.png",
+    iconLists: ["/re.svg","/next.svg",],
+    link: "/ui.aiimg.com",
+  },
+  {
     id: 4,
     title: "Animated  Website",
     des: "is a dynamic web experience that incorporates engaging animations to enhance user interaction and storytelling. The project showcases the seamless integration of motion design into the user interface, creating a visually captivating environment that keeps visitors engaged. By combining creative animation with intuitive navigation, this website pushes the boundaries of traditional web design, offering a unique, immersive experience that captures attention and conveys content in an exciting, interactive way...",
