@@ -105,7 +105,7 @@ export const projects = [
   {
     id: 5,
     title: "Animated  Website",
-    des: "is a dynamic web experience that incorporates engaging animations to enhance user interaction and storytelling. The project showcases the seamless integration of motion design into the user interface, creating a visually captivating environment that keeps visitors engaged. By combining creative animation with intuitive navigation, this website pushes the boundaries of traditional web design, offering a unique, immersive experience that captures attention and conveys content in an exciting, interactive way...",
+    des: "",
     img: "/chrome_7wUSnfAoS3.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "/ui.apple.com",
