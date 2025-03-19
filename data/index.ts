@@ -96,10 +96,10 @@ export const projects = [
   },
   {
     id: 6,
-    title: "3D portfolio",
+    title: "Bank",
     des: "A visually striking, interactive 3D portfolio that showcases creative work in an immersive, dynamic environment. Using cutting-edge 3D technology, this project enables users to explore artwork and designs in a more engaging and lifelike way, offering a unique and memorable experience.",
     img: "/chrome_7wUSnfAoS3.png",
-    iconLists: ["/re.svg","/next.svg",],
+    iconLists: ["/tail.svg","/next.svg",],
     link: "/ui.aiimg.com",
   },
   {
